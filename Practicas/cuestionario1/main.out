@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.1}{Diga en una sola frase cu\341l cree que es el objetivo principal de la Visi\363n por Computador. Diga tambi\351n cu\341l es la principal propiedad de cara a los algoritmos que est\341 presente en todas las im\341genes.}{}% 1
+\BOOKMARK [1][-]{section.2}{Expresar las diferencias y semejanzas entre las operaciones de correlaci\363n y convoluci\363n. Dar una interpretaci\363n de cada una de ellas que en el contexto de uso en visi\363n por computador.}{}% 2
+\BOOKMARK [1][-]{section.3}{\277Los filtros de convoluci\363n definen funciones lineales sobre las im\341genes? \277y los de mediana? Justificar la respuesta.}{}% 3
+\BOOKMARK [1][-]{section.4}{Una operaci\363n de m\341scara que tipo de informaci\363n usa, \277local o global? Justificar la respuesta}{}% 4
+\BOOKMARK [1][-]{section.5}{\277De qu\351 depende que una m\341scara de convoluci\363n pueda ser implementada de forma separable por filas y columnas? Justificar la respuesta}{}% 5
+\BOOKMARK [1][-]{section.6}{Para implementar una funci\363n que calcule la imagen gradiente de una imagen cabe plantearse dos alternativas:}{}% 6
+\BOOKMARK [2][-]{subsection.6.1}{Primero alisar la imagen y despu\351s calcular las derivadas sobre la imagen alisada }{section.6}% 7
+\BOOKMARK [2][-]{subsection.6.2}{Primero calcular las im\341genes derivadas y despu\351s alisar dichas im\341genes. }{section.6}% 8
+\BOOKMARK [1][-]{section.7}{Verificar matem\341ticamente que las primeras derivadas \(respecto de x e y\) de la Gaussiana 2D se puede expresar como n\372cleos de convoluci\363n separables por filas y columnas. Interpretar el papel de dichos n\372cleos en el proceso de convoluci\363n.}{}% 9
+\BOOKMARK [1][-]{section.8}{Verificar matem\341ticamente que la Laplaciana de la Gaussiana se puede implementar a partir de n\372cleos de convoluci\363n separables por filas y columnas. Interpretar el papel de dichos n\372cleos en el proceso de convoluci\363n. }{}% 10
+\BOOKMARK [1][-]{section.9}{\277Cu\341les son las operaciones b\341sicas en la reducci\363n del tama\361o de una imagen? Justificar el papel de cada una de ellas. }{}% 11
+\BOOKMARK [1][-]{section.10}{- \277Qu\351 informaci\363n de la imagen original se conserva cuando vamos subiendo niveles en una pir\341mide Gaussiana? Justificar la respuesta. }{}% 12
+\BOOKMARK [1][-]{section.11}{\277Qu\351 informaci\363n podemos extraer de la pir\341mide Gaussiana y la pir\341mide Laplaciana de una imagen? \277Qu\351 nos aporta cada una de ellas? Justificar la respuesta. }{}% 13
+\BOOKMARK [1][-]{section.12}{\277Podemos garantizar una perfecta reconstrucci\363n de una imagen a partir de su pir\341mide Laplaciana? Dar argumentos y discutir las opciones que considere necesario.}{}% 14
+\BOOKMARK [1][-]{section.13}{En OpenCV solo se pueden calcular m\341scaras Sobel de hasta dimensi\363n 7x7 \277Por qu\351? De una explicaci\363n razonable a este hecho y diga c\363mo influye en el c\341lculo con m\341scaras de mayor tama\361o. Justificar la respuesta}{}% 15
+\BOOKMARK [1][-]{section.14}{Cuales son las contribuciones m\341s relevantes del algoritmo de Canny al c\341lculo de los contornos sobre una imagen?. \277Existe alguna conexi\363n entre las m\341scaras de Sobel y el algoritmo de Canny? Justificar la respuesta}{}% 16
+\BOOKMARK [1][-]{section.15}{Suponga que le piden implementar un algoritmo para el c\341lculo de la derivada de primer y segundo orden sobre una imagen usando un filtro gaussiano cualesquiera. Enumere y explique los pasos necesarios para llevarlo a cabo.}{}% 17
+\BOOKMARK [1][-]{section.16}{Algunas referencias}{}% 18
